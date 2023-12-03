@@ -91,7 +91,7 @@ If you have any issues, or have a controller that isn't on this list, please mak
 NEW SUPPORTED PERIPHERALS
 ---
 - HORI DEAD OR ALIVE 3 STICK
-![HORI DEAD OR ALIVE 3 STICK](https://static.wikia.nocookie.net/deadoralive/images/4/45/Xbox_stickk.jpg/revision/latest?cb=20150219140829)
+![HORI DEAD OR ALIVE 3 STICK](https://down-th.img.susercontent.com/file/5d30b870a3e499c5d074c2103e45d80e)
 - Logitech Precision Vibration Feedback Wheel
 ![Logitech Precision Vibration Feedback Wheel](https://assets.catawiki.nl/assets/2020/5/23/9/e/8/9e8ea025-4acb-4db7-9fd6-fc58683ee99c.jpg)
 
