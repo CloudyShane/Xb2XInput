@@ -1,5 +1,13 @@
 ## Xb2XInput fork - user-mode Xbox OG controller driver for Windows with new devices added
 
+Q: Why does this exist?
+
+A: The original developer of Xb2Xinput - emoose - seemingly dropped support for his amazing project back in 2021. I can't say for sure, but the last compiled release and lack of any updates since then suggest so.
+That's why I've decided to check how hard it was to make unsupported devices work, even though I'm not a programmer or anything. It was painfully easy.
+So, I've decided to take over and add the IDs of unsupported hardware and compile new versions of this software for people to finally enjoy their Xbox peripherals on their computers.
+
+## Back to the mostly original Readme:
+
 Xb2XInput is a small application that can translate the input from an Xbox OG controller over to a virtual XInput/DirectInput device for games to make use of, without needing any unsigned drivers to be installed!
 
 While there's already solutions such as [XBCD](https://www.s-config.com/xbcd-original-xbox-controllers-win10/) or the [signed Mayflash driver](https://www.s-config.com/xbcd-mayflash-xbox-joystick-driver/) for this, unfortunately neither included support for my Madcatz controller out-of-the-box.  
